@@ -1,0 +1,7 @@
+/Users/pengc/Documents/msi/microservice/techie course/project/product-service/src/main/java/com/microservice/productservice/ProductServiceApplication.java
+/Users/pengc/Documents/msi/microservice/techie course/project/product-service/src/main/java/com/microservice/productservice/service/ProductService.java
+/Users/pengc/Documents/msi/microservice/techie course/project/product-service/src/main/java/com/microservice/productservice/beans/Product.java
+/Users/pengc/Documents/msi/microservice/techie course/project/product-service/src/main/java/com/microservice/productservice/controller/ProductController.java
+/Users/pengc/Documents/msi/microservice/techie course/project/product-service/src/main/java/com/microservice/productservice/dto/ProductResponse.java
+/Users/pengc/Documents/msi/microservice/techie course/project/product-service/src/main/java/com/microservice/productservice/dao/ProductDao.java
+/Users/pengc/Documents/msi/microservice/techie course/project/product-service/src/main/java/com/microservice/productservice/dto/ProductRequest.java

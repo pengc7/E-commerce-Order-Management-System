@@ -1,0 +1,12 @@
+com/microservice/orderservice/repository/OrderRepository.class
+com/microservice/orderservice/event/OrderPlacedEvent.class
+com/microservice/orderservice/dto/InventoryResponse.class
+com/microservice/orderservice/dto/OrderRequest.class
+com/microservice/orderservice/service/OrderService.class
+com/microservice/orderservice/config/WebClientConfig.class
+com/microservice/orderservice/model/OrderLineItems.class
+com/microservice/orderservice/controller/OrderController.class
+com/microservice/orderservice/OrderServiceApplication.class
+com/microservice/orderservice/dto/OrderLineItemsDto.class
+com/microservice/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/microservice/orderservice/model/Order.class

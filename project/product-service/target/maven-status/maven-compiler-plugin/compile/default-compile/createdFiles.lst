@@ -1,0 +1,10 @@
+com/microservice/productservice/beans/Product.class
+com/microservice/productservice/service/ProductService.class
+com/microservice/productservice/dao/ProductDao.class
+com/microservice/productservice/dto/ProductResponse.class
+com/microservice/productservice/beans/Product$ProductBuilder.class
+com/microservice/productservice/ProductServiceApplication.class
+com/microservice/productservice/dto/ProductRequest.class
+com/microservice/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/microservice/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/microservice/productservice/controller/ProductController.class

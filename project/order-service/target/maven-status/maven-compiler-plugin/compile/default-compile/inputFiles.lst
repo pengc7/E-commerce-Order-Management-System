@@ -1,0 +1,11 @@
+/Users/pengc/Documents/msi/microservice/techie course/project/order-service/src/main/java/com/microservice/orderservice/dto/OrderLineItemsDto.java
+/Users/pengc/Documents/msi/microservice/techie course/project/order-service/src/main/java/com/microservice/orderservice/dto/OrderRequest.java
+/Users/pengc/Documents/msi/microservice/techie course/project/order-service/src/main/java/com/microservice/orderservice/dto/InventoryResponse.java
+/Users/pengc/Documents/msi/microservice/techie course/project/order-service/src/main/java/com/microservice/orderservice/repository/OrderRepository.java
+/Users/pengc/Documents/msi/microservice/techie course/project/order-service/src/main/java/com/microservice/orderservice/service/OrderService.java
+/Users/pengc/Documents/msi/microservice/techie course/project/order-service/src/main/java/com/microservice/orderservice/event/OrderPlacedEvent.java
+/Users/pengc/Documents/msi/microservice/techie course/project/order-service/src/main/java/com/microservice/orderservice/model/Order.java
+/Users/pengc/Documents/msi/microservice/techie course/project/order-service/src/main/java/com/microservice/orderservice/controller/OrderController.java
+/Users/pengc/Documents/msi/microservice/techie course/project/order-service/src/main/java/com/microservice/orderservice/model/OrderLineItems.java
+/Users/pengc/Documents/msi/microservice/techie course/project/order-service/src/main/java/com/microservice/orderservice/config/WebClientConfig.java
+/Users/pengc/Documents/msi/microservice/techie course/project/order-service/src/main/java/com/microservice/orderservice/OrderServiceApplication.java
